@@ -3,7 +3,7 @@ let img = [
     "http://www.thedesignwork.com/wp-content/uploads/2011/10/Random-Pictures-of-Conceptual-and-Creative-Ideas-02.jpg",
     "https://i.pinimg.com/originals/98/f4/51/98f451f8794a407e123a35efc8373484.jpg",
     "https://phillipbrande.files.wordpress.com/2013/10/random-pic-14.jpg",
-    "http://www.cedarcreekgallery.com/sites/default/files/images/pumpkin-carved2.png",
+    "https://www.askideas.com/media/08/Funny-Pumpkin-Angry-Face.jpg",
     "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtH1CWAJ4M77xox7HN9b03V3xSb3OoeH9SqxHzUAx_gVVh22zu",
     "http://4.bp.blogspot.com/-fM8ROSKM1Tw/TbabQDnGLiI/AAAAAAAAHCQ/jhvcyS6ehnA/s1600/Wierd+House+01.jpg"
 ];
